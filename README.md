@@ -2,7 +2,7 @@ Hi, I'm Kushaal Yadav 👋
 
 Product-minded Full Stack Engineer — I own things end-to-end: architecture → MVP → production → iteration.
 
-I'm a Computer Science (AI & ML) student at Chandigarh University (8th semester), with real startup experience shipping platforms that serve production users — not just academic projects.
+I'm a Computer Science (AI & ML) student at Chandigarh University (9th semester), with real startup experience shipping platforms that serve production users — not just academic projects.
 
 🚀 Currently: Full Stack Developer Intern @ InstanDev Technologies — independently owned two live platforms serving 2,500+ active users
 🎯 Previously: ReactJS Intern @ Celebal Technologies
